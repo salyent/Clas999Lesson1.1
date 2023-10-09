@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Toast.makeText(this, "show first", Toast.LENGTH_LONG).show()
         Toast.makeText(this, "Feature two", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Feature three", Toast.LENGTH_LONG).show()
 
     }
 }
